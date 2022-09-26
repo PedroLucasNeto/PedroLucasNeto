@@ -2,7 +2,7 @@
 Saiba um pouco mais sobre as tecnologias que eu uso; 
 
 # Hey there! I'm Pedro Lucas;
-Here you'll get to know a little bit more of the Technologies I use;
+Here you'll get to know a little bit more about the Technologies I use;
 
 ## Tecnologias/Technologies
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
