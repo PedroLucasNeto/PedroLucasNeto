@@ -1,5 +1,4 @@
-# Olá! Me chamo Pedro Lucas; 
-Saiba um pouco mais sobre as tecnologias que eu uso; 
+# Obrigado pela oportunidade!
 
 # Hey there! I'm Pedro Lucas;
 Here you'll get to know a little bit more about the Technologies I use;
@@ -27,3 +26,6 @@ Here you'll get to know a little bit more about the Technologies I use;
 
 <a href="https://www.linkedin.com/in/pedrolucasneto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://discord.gg/YvQXrehSjx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
+# Olá! Me chamo Pedro Lucas; 
+Saiba um pouco mais sobre as tecnologias que eu uso; 
