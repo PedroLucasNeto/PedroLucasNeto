@@ -1,6 +1,3 @@
-# Olá! Me chamo Pedro Lucas; 
-Saiba um pouco mais sobre as tecnologias que eu uso; 
-
 # Hey there! I'm Pedro Lucas;
 Here you'll get to know a little bit more about the Technologies I use;
 
