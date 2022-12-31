@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/pedrolucasneto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://discord.gg/YvQXrehSjx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href= "mailto:pedrolukasneto@gmail.com? Subject=Assunto teste mensagem&body=Olá! Me chamo: 'Seu Nome'  Estou entrando em contato para..."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href= "mailto:pedrolukasneto@gmail.com? mensagem&body=Olá Pedro, vi seu perfil no GitHub!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## Tecnologias/Technologies
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
