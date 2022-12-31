@@ -1,5 +1,10 @@
-# Hey there! I'm Pedro Lucas;
-Here you'll get to know a little bit more about the Technologies I use;
+# Hey there!
+
+## Contato/Contact:
+
+<a href="https://www.linkedin.com/in/pedrolucasneto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://discord.gg/YvQXrehSjx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
 
 ## Tecnologias/Technologies
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -20,8 +25,4 @@ Here you'll get to know a little bit more about the Technologies I use;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucasNeto&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api?username=PedroLucasNeto&theme=tokyonight"/>
 
-## Contato/Contact:
-
-<a href="https://www.linkedin.com/in/pedrolucasneto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discord.gg/YvQXrehSjx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
