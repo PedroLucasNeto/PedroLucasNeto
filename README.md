@@ -2,7 +2,7 @@
 ## About Me:
 I'm currently open to work.
 I love foreing languages and can speak English and Spanish fluently; My native language is brazilian Portuguese.
-I am an undergraduate student in System's Information at Unifacisa, Campina Grande - Brazil.
+I am an undergraduate student of System's Information at Unifacisa, Campina Grande - Brazil.
 Feel free to contact me on any of the following contact infos! I'll be happy to answer as soon as I can.
 
 ## Contato/Contact:
@@ -13,12 +13,12 @@ Feel free to contact me on any of the following contact infos! I'll be happy to 
 
 # Technologies I use the most;
 
-##IDE
+## IDE
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 
-##Programming Languages
+## Programming Languages
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -29,7 +29,7 @@ Feel free to contact me on any of the following contact infos! I'll be happy to 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-##Tools and Frameworks
+## Tools and Frameworks
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
