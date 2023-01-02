@@ -26,6 +26,8 @@ Feel free to contact me on any of the following contact infos! I'll be happy to 
 <img src=""/> -->
 
 ## Status
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLucasNeto&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucasNeto&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api?username=PedroLucasNeto&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLucasNeto&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucasNeto&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PedroLucasNeto&theme=tokyonight"/>
 
 
