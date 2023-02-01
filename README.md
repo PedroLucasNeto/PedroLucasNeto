@@ -1,15 +1,16 @@
 # Welcome to my Profile!
 ## About Me:
-I'm currently open to work.
-I love foreing languages and can speak English and Spanish fluently; My native language is brazilian Portuguese.
-I am an undergraduate student of System's Information at Unifacisa, Campina Grande - Brazil.
-Feel free to contact me on any of the following contact infos! I'll be happy to answer as soon as I can.
+This is Pedro! A passionate boy who loves technologies and solving problems. 
+I am currently a Information Systems undergraduate student at Unifacisa, Campina Grande - Brazil
+One of my passions is foreing languages. I speak English and Spanish fluently and I'm now learning French although my native language is brazilian Portuguese.
+
+Send me a message on any of the following links! I'd love to chat, you can also join my discord server and find me soon or later!
 
 ## Contato/Contact:
 
 <a href="https://www.linkedin.com/in/pedrolucasneto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discord.gg/YvQXrehSjx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href= "mailto:pedrolukasneto@gmail.com? mensagem&body=Olá Pedro, vi seu perfil no GitHub!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://discord.gg/YvQXrehSjx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 # Technologies I use the most;
 
