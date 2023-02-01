@@ -1,8 +1,8 @@
 # Welcome to my Profile!
 ## About Me:
 This is Pedro! A passionate boy who loves technologies and solving problems. 
-I am currently a Information Systems undergraduate student at Unifacisa, Campina Grande - Brazil
-One of my passions is foreing languages. I speak English and Spanish fluently and I'm now learning French although my native language is brazilian Portuguese.
+I am currently an Information Systems undergraduate student at Unifacisa, Campina Grande - Brazil
+If you have a minute, stop by to check my latest project. <a href="https://github.com/PedroLucasNeto/Coding-For-Free">Coding For Free</a>
 
 Send me a message on any of the following links! I'd love to chat, you can also join my discord server and find me soon or later!
 
@@ -31,4 +31,6 @@ Send me a message on any of the following links! I'd love to chat, you can also 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucasNeto&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api?username=PedroLucasNeto&theme=tokyonight"/>
 
+## More about me!
 
+One of my passions is foreing languages. I speak English and Spanish fluently and I'm now learning French although my native language is brazilian Portuguese.
