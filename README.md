@@ -28,11 +28,11 @@ Send me a message on any of the following links! I'd love to chat, you can also 
 <!-- <img src=""/>
 <img src=""/> -->
 
-## Status
+<!-- ## Status
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLucasNeto&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucasNeto&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api?username=PedroLucasNeto&theme=tokyonight"/>
-
+ -->
 ## More about me!
 
 One of my passions is foreing languages. I speak English and Spanish fluently and I'm now learning French although my native language is brazilian Portuguese.
