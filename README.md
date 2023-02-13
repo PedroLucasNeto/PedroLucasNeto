@@ -1,6 +1,6 @@
 # Welcome to my Profile!
 ## About Me:
-This is Pedro! A passionate boy who loves technologies and solving problems. 
+Hi there! My name is Pedro and I love technologies and solving problems. 
 I am currently an Information Systems undergraduate student at Unifacisa, Campina Grande - Brazil.
 
 If you have a minute, stop by to check my latest project.
